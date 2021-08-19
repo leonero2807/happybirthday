@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonero2807/hpbd.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Trung",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/leonero2807/hpbd.git"
+  },
+  "homepage": "https://github.com/leonero2807/hpbd.git",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
